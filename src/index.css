@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+html,
+body,
+#root {
+    height: 100%;
+}
+
+:root{
+    --beige:#FFF7DD;
+    --mintGreen:#1B3C53;
+    --cGreen:#91C4C3;
+    --lilac:#80A1BA;
+    --buttons:#86B0BD;
+}
+
+.min-h-64 {
+    min-height: 16rem;
+}
+
+:root {
+    --transition: background-color 250ms ease, color 250ms ease;
+}
+
+* {
+    transition: var(--transition);
+
+}

@@ -1,0 +1,101 @@
+{
+    "weekly": [
+        {
+            "day": "Mon",
+            "value": 65
+        },
+        {
+            "day": "Tue",
+            "value": 80
+        },
+        {
+            "day": "Wed",
+            "value": 55
+        },
+        {
+            "day": "Thu",
+            "value": 90
+        },
+        {
+            "day": "Fri",
+            "value": 70
+        },
+        {
+            "day": "Sat",
+            "value": 85
+        },
+        {
+            "day": "Sun",
+            "value": 60
+        }
+    ],
+    "stats": {
+        "day": [
+            {
+                "label": "6AM",
+                "value": 45
+            },
+            {
+                "label": "9AM",
+                "value": 70
+            },
+            {
+                "label": "12PM",
+                "value": 60
+            },
+            {
+                "label": "3PM",
+                "value": 85
+            },
+            {
+                "label": "6PM",
+                "value": 95
+            },
+            {
+                "label": "9PM",
+                "value": 50
+            }
+        ],
+        "month": [
+            {
+                "label": "Week 1",
+                "value": 70
+            },
+            {
+                "label": "Week 2",
+                "value": 85
+            },
+            {
+                "label": "Week 3",
+                "value": 75
+            },
+            {
+                "label": "Week 4",
+                "value": 90
+            }
+        ]
+    },
+    "achievements": [
+        {
+            "id": 1,
+            "name": "First Workout",
+            "description": "Complete your first workout",
+            "icon": "🎯",
+            "unlocked": true
+        },
+        {
+            "id": 2,
+            "name": "7 Day Streak",
+            "description": "Work out for 7 days in a row",
+            "icon": "🔥",
+            "unlocked": true
+        },
+        {
+            "id": 3,
+            "name": "Calorie Burner",
+            "description": "Burn 1000 calories in a day",
+            "icon": "⚡",
+            "unlocked": false
+        }
+    ]
+}

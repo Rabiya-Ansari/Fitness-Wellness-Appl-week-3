@@ -1,0 +1,26 @@
+{
+    "1": {
+        "name": "Running",
+        "video": "/media/running.mp4",
+        "steps": [
+            "Start with a 5-minute warm-up walk",
+            "Maintain proper posture with shoulders relaxed",
+            "Land mid-foot and roll through to your toes",
+            "Keep your arms at 90-degree angles",
+            "Cool down with a 5-minute walk"
+        ],
+        "tips": "Breathe rhythmically and stay hydrated"
+    },
+    "5": {
+        "name": "Push-ups",
+        "video": "/media/pushups.mp4",
+        "steps": [
+            "Start in a plank position with hands shoulder-width apart",
+            "Keep your body in a straight line from head to heels",
+            "Lower your body until chest nearly touches the floor",
+            "Push back up to starting position",
+            "Repeat for desired repetitions"
+        ],
+        "tips": "Keep core engaged and avoid sagging hips"
+    }
+}

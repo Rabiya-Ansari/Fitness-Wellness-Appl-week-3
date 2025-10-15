@@ -1,0 +1,92 @@
+{
+    "cardio": [
+        {
+            "id": 1,
+            "name": "Running",
+            "duration": 30,
+            "calories": 300,
+            "difficulty": "medium"
+        },
+        {
+            "id": 2,
+            "name": "Jumping Jacks",
+            "duration": 15,
+            "calories": 150,
+            "difficulty": "easy"
+        },
+        {
+            "id": 3,
+            "name": "Burpees",
+            "duration": 20,
+            "calories": 250,
+            "difficulty": "hard"
+        },
+        {
+            "id": 4,
+            "name": "Mountain Climbers",
+            "duration": 15,
+            "calories": 180,
+            "difficulty": "medium"
+        }
+    ],
+    "strength": [
+        {
+            "id": 5,
+            "name": "Push-ups",
+            "duration": 10,
+            "calories": 100,
+            "difficulty": "medium"
+        },
+        {
+            "id": 6,
+            "name": "Squats",
+            "duration": 15,
+            "calories": 120,
+            "difficulty": "easy"
+        },
+        {
+            "id": 7,
+            "name": "Planks",
+            "duration": 5,
+            "calories": 50,
+            "difficulty": "medium"
+        },
+        {
+            "id": 8,
+            "name": "Lunges",
+            "duration": 15,
+            "calories": 130,
+            "difficulty": "medium"
+        }
+    ],
+    "yoga": [
+        {
+            "id": 9,
+            "name": "Downward Dog",
+            "duration": 10,
+            "calories": 40,
+            "difficulty": "easy"
+        },
+        {
+            "id": 10,
+            "name": "Warrior Pose",
+            "duration": 15,
+            "calories": 60,
+            "difficulty": "medium"
+        },
+        {
+            "id": 11,
+            "name": "Tree Pose",
+            "duration": 10,
+            "calories": 45,
+            "difficulty": "easy"
+        },
+        {
+            "id": 12,
+            "name": "Child Pose",
+            "duration": 5,
+            "calories": 20,
+            "difficulty": "easy"
+        }
+    ]
+}
