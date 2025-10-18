@@ -80,22 +80,19 @@
             "id": 1,
             "name": "First Workout",
             "description": "Complete your first workout",
-            "icon": "🎯",
-            "unlocked": true
+            "icon": "🎯"
         },
         {
             "id": 2,
             "name": "7 Day Streak",
             "description": "Work out for 7 days in a row",
-            "icon": "🔥",
-            "unlocked": true
+            "icon": "🔥"
         },
         {
             "id": 3,
             "name": "Calorie Burner",
             "description": "Burn 1000 calories in a day",
-            "icon": "⚡",
-            "unlocked": false
+            "icon": "⚡"
         }
     ]
 }

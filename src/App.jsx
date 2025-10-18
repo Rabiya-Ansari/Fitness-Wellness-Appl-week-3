@@ -58,7 +58,7 @@ const App = () => {
       <div className="fixed bottom-4 right-4 bg-[var(--mintGreen)] text-white px-4 py-2 rounded-lg shadow-lg text-sm font-medium">
         📱 Offline mode available for workout plans
       </div>
-      <Footer/>
+      <Footer darkMode={darkMode} />
     </div>
   )
 }
